@@ -18,7 +18,7 @@ Minha formação inclui Graduação em Data Science pela FIAP (Faculdade de Info
 
 
 ## Projetos(Em evolução):
-Veja os tutoriais publicados do Sigmoidal:
+Aqui irei listar os projetos que tenho desenvolvido:
 
 * **Modelo de Avaliação de Risco de Concessão de Crédito:** http://bit.ly/3e4rSR8
 
