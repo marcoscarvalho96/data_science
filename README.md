@@ -21,6 +21,8 @@ Formação Acadêmica: Graduação em Data Science pela FIAP (Faculdade de Infor
 Aqui irei listar os projetos que tenho desenvolvido:
 
 * **Modelo de Avaliação de Risco de Concessão de Crédito:** http://bit.ly/3e4rSR8
+* **House Sales Price Prediction Model** http://bit.ly/3tdPUOf
+
 
 ---
 
